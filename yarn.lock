@@ -1824,10 +1824,10 @@
     "@moralisweb3/common-evm-utils" "^2.18.4"
     "@moralisweb3/streams-typings" "^1.0.7"
 
-"@moralisweb3/eslint-config@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@moralisweb3/eslint-config/-/eslint-config-1.0.1.tgz#46dc6703dd4fcb49433e163cdb411305cdb956aa"
-  integrity sha512-XLp0sbr6eD7y4ITXJSl0r90jeWxhce3sfYejm+azuI7nszJNyvPZ0OZh1LCcYbNxUFPD2ONvttLTb2IgrRbSPQ==
+"@moralisweb3/eslint-config@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@moralisweb3/eslint-config/-/eslint-config-1.0.3.tgz#8950d1679f5ff73ce10a131c5ddd3e23ee0d94b3"
+  integrity sha512-Ix8yu1YDKVQiStik0bRWcIOkOA2frDSP4ZPZ2OJhQdpMoQa+hUqXfzqa1MjGCBNB5T9vcTXPx73h1e2fh4b8TA==
 
 "@moralisweb3/evm-api@^2.14.1", "@moralisweb3/evm-api@^2.18.4":
   version "2.18.4"
