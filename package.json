@@ -14,7 +14,7 @@
     "test:cypress": "cypress run --browser chrome --headless"
   },
   "dependencies": {
-    "@chakra-ui/icons": "^2.0.8",
+    "@chakra-ui/icons": "^2.2.4",
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
